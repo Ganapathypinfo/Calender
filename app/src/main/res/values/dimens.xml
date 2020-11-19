@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="menu_top">110dp</dimen>
+    <dimen name="depth">2dp</dimen>
+    <dimen name="drawer_width">240dp</dimen>
+    <dimen name="default_horizontal_padding">16dp</dimen>
+    <dimen name="default_vertical_padding">16dp</dimen>
+    <dimen name="radius">140dp</dimen>
+    <dimen name="diameter">200dp</dimen>
+
+    <dimen name="signature_height">300dp</dimen>
+    <dimen name="line_width">1dp</dimen>
+    <dimen name="line_height">30dp</dimen>
+    <dimen name="text_small">10sp</dimen>
+    <dimen name="text_xsmall">11sp</dimen>
+    <dimen name="text_xxsmall">12sp</dimen>
+    <dimen name="text_12">12sp</dimen>
+    <dimen name="text_14">14sp</dimen>
+    <dimen name="text_semismall">13sp</dimen>
+    <dimen name="text_normal_small">14sp</dimen>
+    <dimen name="text_medium">15sp</dimen>
+    <dimen name="text_semimedium">16sp</dimen>
+    <dimen name="text_xsemimedium">17sp</dimen>
+    <dimen name="text_normal">18sp</dimen>
+    <dimen name="text_helpline_normal">16sp</dimen>
+    <dimen name="text_large">20sp</dimen>
+    <dimen name="text_xlarge_small_minor">22sp</dimen>
+    <dimen name="text_xlarge_small">24sp</dimen>
+    <dimen name="text_xlarge">25sp</dimen>
+    <dimen name="text_xlarge_bigger">28sp</dimen>
+    <dimen name="text_xxlarge_small">30sp</dimen>
+    <dimen name="text_xxlarge_large">32sp</dimen>
+    <dimen name="text_xxlarge">35sp</dimen>
+
+    <dimen name="text_phone_no">13sp</dimen>
+
+
+    <dimen name="margin_high_negative">-65dp</dimen>
+    <dimen name="margin_largemedium_negative_big">-30dp</dimen>
+    <dimen name="margin_largemedium_negative">-25dp</dimen>
+    <dimen name="margin_medium_negative">-16dp</dimen>
+    <dimen name="margin_smallmedium_negative">-12dp</dimen>
+    <dimen name="margin_smallmedium_negative_x">-10dp</dimen>
+    <dimen name="margin_small_negative">-5dp</dimen>
+    <dimen name="margin_small_xnegative">-3dp</dimen>
+    <dimen name="margin_small_xnegativesmall">-2dp</dimen>
+    <dimen name="margin_small_xxnegative">-1dp</dimen>
+    <dimen name="margin_minor">1dp</dimen>
+    <dimen name="margin_minor_large">2dp</dimen>
+    <dimen name="margin_xminor">2dp</dimen>
+    <dimen name="margin_small_minor">3dp</dimen>
+    <dimen name="margin_small_xminor">4dp</dimen>
+    <dimen name="margin_small">5dp</dimen>
+    <dimen name="margin_xxsmall">7dp</dimen>
+    <dimen name="margin_xsmall">8dp</dimen>
+    <dimen name="margin_medium">10dp</dimen>
+    <dimen name="margin_medium_high">12dp</dimen>
+    <dimen name="margin_normal_small">14dp</dimen>
+    <dimen name="margin_normal">15dp</dimen>
+    <dimen name="margin_normal_decimal">15.5dp</dimen>
+    <dimen name="margin_xnormal">16dp</dimen>
+    <dimen name="margin_xxnormal">17dp</dimen>
+    <dimen name="margin_xxxnormal">18dp</dimen>
+    <dimen name="margin_large_small">19dp</dimen>
+    <dimen name="margin_large">20dp</dimen>
+    <dimen name="margin_xlarge_little">21dp</dimen>
+
+    <dimen name="margin_large_logout">20dp</dimen>
+
+
+    <dimen name="margin_large_little">22dp</dimen>
+    <dimen name="margin_large_medium">25dp</dimen>
+    <dimen name="margin_large_medium_more">26dp</dimen>
+    <dimen name="margin_x_samll_large">29dp</dimen>
+    <dimen name="margin_xlarge">30dp</dimen>
+    <dimen name="margin_xlarge_high">35dp</dimen>
+    <dimen name="margin_xxlarge">40dp</dimen>
+    <dimen name="margin_xxlarge_x">45dp</dimen>
+    <dimen name="margin_xxxlarge">50dp</dimen>
+    <dimen name="margin_xxxlarge_inbet">55dp</dimen>
+    <dimen name="margin_xxxlarge_xinbet">56dp</dimen>
+    <dimen name="margin_xxxxlarge_minor">59dp</dimen>
+    <dimen name="margin_xxxxlarge">60dp</dimen>
+    <dimen name="margin_xxxxlarge_more">62dp</dimen>
+
+    <dimen name="margin_xxxxlarge_big">70dp</dimen>
+    <dimen name="margin_xxxxlargehigh">75dp</dimen>
+    <dimen name="margin_medium_logout">10dp</dimen>
+
+    <dimen name="margin_xbig_xxsmall">80dp</dimen>
+    <dimen name="margin_xbig_xxxsmall">82dp</dimen>
+
+    <dimen name="margin_xbig_xsmall">89dp</dimen>
+    <dimen name="margin_xbig_small">90dp</dimen>
+    <dimen name="margin_xbig">100dp</dimen>
+    <dimen name="margin_big">120dp</dimen>
+    <dimen name="margin_big1">110dp</dimen>
+    <dimen name="margin_negative_top">-150dp</dimen>
+    <dimen name="margin_negative_left">-50dp</dimen>
+
+    <dimen name="padding_xminor">1dp</dimen>
+    <dimen name="padding_minor">2dp</dimen>
+    <dimen name="padding_small">5dp</dimen>
+    <dimen name="padding_xsmall">8dp</dimen>
+    <dimen name="padding_medium">10dp</dimen>
+    <dimen name="padding_normal">15dp</dimen>
+    <dimen name="padding_normal_big">16dp</dimen>
+    <dimen name="padding_large">20dp</dimen>
+    <dimen name="padding_large_medium">25dp</dimen>
+    <dimen name="padding_xlarge">30dp</dimen>
+    <dimen name="padding_xxlarge">40dp</dimen>
+    <dimen name="padding_xxxlarge">50dp</dimen>
+    <dimen name="padding_xxxxlarge">60dp</dimen>
+    <dimen name="padding_medlarge">75dp</dimen>
+    <dimen name="padding_highlarge">80dp</dimen>
+    <dimen name="padding_xhighlarge">100dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="home_divider">5dp</dimen>
+
+    <dimen name="layout_width_zero">0dp</dimen>
+    <dimen name="layout_height_zero">0dp</dimen>
+    <dimen name="layout_height_xzero">0.1dp</dimen>
+    <dimen name="layout_height_xxzero">0.5dp</dimen>
+    <dimen name="layout_width_one">1dp</dimen>
+
+    <dimen name="layout_width_smallest">1dp</dimen>
+    <dimen name="layout_height_smallest">1dp</dimen>
+    <dimen name="layout_height_small_xx">1.25dp</dimen>
+    <dimen name="layout_width_small">2dp</dimen>
+    <dimen name="layout_height_small">2dp</dimen>
+    <dimen name="layout_height_small_x">3dp</dimen>
+    <dimen name="layout_width_medium_xxxsmall">15dp</dimen>
+    <dimen name="layout_width_medium_xxxxsmall">10dp</dimen>
+    <dimen name="layout_height_medium_xxxxsmall">10dp</dimen>
+    <dimen name="layout_height_medium_xxxsmall">15dp</dimen>
+    <dimen name="layout_width_medium_xxsmall">20dp</dimen>
+    <dimen name="layout_height_medium_xxsmall">20dp</dimen>
+    <dimen name="layout_height_medium_xxsmall_xbig">24dp</dimen>
+    <dimen name="layout_height_medium_xxsmall_big">25dp</dimen>
+    <dimen name="layout_width_medium_xxsmall_big">25dp</dimen>
+    <dimen name="layout_height_medium_xsmall">30dp</dimen>
+    <dimen name="layout_width_medium_xsmall_minor">32dp</dimen>
+    <dimen name="layout_height_medium_xsmall_minor">32dp</dimen>
+    <dimen name="layout_width_medium_small_minor">35dp</dimen>
+    <dimen name="layout_height_medium_small_minor">35dp</dimen>
+    <dimen name="layout_width_medium_small_sm">40dp</dimen>
+    <dimen name="layout_height_medium_small">40dp</dimen>
+    <dimen name="layout_width_medium_largesmall">45dp</dimen>
+    <dimen name="layout_height_medium_largesmall">45dp</dimen>
+    <dimen name="layout_height_medium">50dp</dimen>
+    <dimen name="layout_height_medium_next">55dp</dimen>
+    <dimen name="layout_width_medium_x">60dp</dimen>
+    <dimen name="layout_height_medium_x">60dp</dimen>
+    <dimen name="layout_height_medium_xx">65dp</dimen>
+    <dimen name="layout_width_xmedium_small">70dp</dimen>
+    <dimen name="layout_height_xmedium">70dp</dimen>
+    <dimen name="layout_width_xmedium_small_x">75dp</dimen>
+    <dimen name="layout_height_xmedium_x">75dp</dimen>
+
+    <dimen name="layout_width_xmedium_small_xx">80dp</dimen>
+    <dimen name="layout_height_xmedium_xx">80dp</dimen>
+
+    <dimen name="layout_width_xmedium_small_xxx">81dp</dimen>
+    <dimen name="layout_height_xmedium_xxx">81dp</dimen>
+
+
+    <dimen name="layout_height_xmedium_large">160dp</dimen>
+    <dimen name="layout_height_xmedium_large_big">262dp</dimen>
+    <dimen name="layout_height_medium_large">100dp</dimen>
+    <dimen name="layout_width_medium_xlarge">120dp</dimen>
+    <dimen name="layout_height_medium_xlarge">120dp</dimen>
+    <dimen name="layout_width_medium_large_minor">100dp</dimen>
+    <dimen name="layout_width_medium_large_xminor">103dp</dimen>
+
+    <dimen name="layout_height_medium_large_minor_xx">148dp</dimen>
+    <dimen name="layout_width_medium_large_minor_xx">148dp</dimen>
+
+    <dimen name="layout_height_medium_large_minor_x">150dp</dimen>
+    <dimen name="layout_width_medium_large_minor_x">150dp</dimen>
+    <dimen name="layout_height_medium_xlarge_less">130dp</dimen>
+    <dimen name="layout_width_medium_xlarge_less">130dp</dimen>
+    <dimen name="layout_width_medium_xlarge_more">135dp</dimen>
+    <dimen name="layout_height_medium_xlarge_more">135dp</dimen>
+    <dimen name="layout_height_medium_xsmall_less">160dp</dimen>
+    <dimen name="layout_width_medium_xsmall_less">160dp</dimen>
+    <dimen name="layout_width_medium_small_less">190dp</dimen>
+    <dimen name="layout_width_medium_small">200dp</dimen>
+    <dimen name="layout_width_medium_xsmall">220dp</dimen>
+    <dimen name="layout_width_medium_xsmall_large">233dp</dimen>
+    <dimen name="layout_width_medium">250dp</dimen>
+    <dimen name="layout_height_medium_xxlarge">262dp</dimen>
+    <dimen name="layout_width_xmedium_largesmall">275dp</dimen>
+    <dimen name="layout_width_xmedium">280dp</dimen>
+    <dimen name="layout_width_medium_large">300dp</dimen>
+    <dimen name="layout_width_medium_xxxlarge">310dp</dimen>
+    <dimen name="layout_width_medium_xxlarge">320dp</dimen>
+    <dimen name="layout_height_medium_xxxlarge_small">350dp</dimen>
+    <dimen name="layout_height_medium_xxxlarge">380dp</dimen>
+    <dimen name="layout_height_medium_xxxlarge_big">450dp</dimen>
+
+    <dimen name="image_width_low_small">15dp</dimen>
+    <dimen name="image_height_low_small">15dp</dimen>
+
+    <dimen name="image_width_xlow">20dp</dimen>
+    <dimen name="image_height_xlow">20dp</dimen>
+
+    <dimen name="image_width_low">22dp</dimen>
+    <dimen name="image_height_low">22dp</dimen>
+
+    <dimen name="image_width">27dp</dimen>
+    <dimen name="image_height">20dp</dimen>
+
+    <dimen name="image_width_x">28dp</dimen>
+    <dimen name="image_height_x">28dp</dimen>
+
+    <dimen name="image_width_smallxxx">30dp</dimen>
+    <dimen name="image_height_smallxxx">30dp</dimen>
+
+    <dimen name="image_width_smallxx_low">35dp</dimen>
+    <dimen name="image_height_smallxx_low">35dp</dimen>
+
+    <dimen name="image_width_smallxx">36dp</dimen>
+    <dimen name="image_height_smallxx">36dp</dimen>
+
+    <dimen name="image_width_xx_small">40dp</dimen>
+    <dimen name="image_height_xx_small">40dp</dimen>
+
+    <dimen name="image_width_xx">50dp</dimen>
+    <dimen name="image_height_xx">50dp</dimen>
+
+    <dimen name="image_width_high_less">70dp</dimen>
+    <dimen name="image_height_high_less">70dp</dimen>
+
+    <dimen name="image_width_high_xless">80dp</dimen>
+    <dimen name="image_height_high_xless">80dp</dimen>
+
+    <dimen name="image_width_high">120dp</dimen>
+    <dimen name="image_height_high">120dp</dimen>
+
+    <dimen name="image_width_xmediumlow">28dp</dimen>
+    <dimen name="image_height_xmediumlow">28dp</dimen>
+
+    <dimen name="image_width_xmedium">30dp</dimen>
+    <dimen name="image_height_xmedium">30dp</dimen>
+
+    <dimen name="image_width_medium">38dp</dimen>
+    <dimen name="image_height_medium">38dp</dimen>
+
+    <dimen name="image_width_medium_small">35dp</dimen>
+    <dimen name="image_height_medium_small">35dp</dimen>
+
+    <dimen name="image_width_medium_xsmall">40dp</dimen>
+    <dimen name="image_height_medium_xsmall">40dp</dimen>
+
+    <dimen name="image_width_large_minor">50dp</dimen>
+    <dimen name="image_height_large_minor">50dp</dimen>
+
+    <dimen name="image_width_large">80dp</dimen>
+    <dimen name="image_height_large">80dp</dimen>
+
+    <dimen name="image_width_xlarge">90dp</dimen>
+    <dimen name="image_height_xlarge">90dp</dimen>
+
+    <dimen name="image_width_xlarge_big_medium">160dp</dimen>
+    <dimen name="image_height_xlarge_big_medium">160dp</dimen>
+
+    <dimen name="image_width_xlarge_big">200dp</dimen>
+    <dimen name="image_width_xlarge_r_big">300dp</dimen>
+    <dimen name="image_height_xlarge_big">300dp</dimen>
+
+    <dimen name="image_icon_width_less">15dp</dimen>
+    <dimen name="image_icon_height_less">15dp</dimen>
+
+    <dimen name="image_icon_width">25dp</dimen>
+    <dimen name="image_icon_height">25dp</dimen>
+
+    <dimen name="imagebutton_width">20dp</dimen>
+    <dimen name="imagebutton_height">20dp</dimen>
+
+    <dimen name="view_height_small">1.25dp</dimen>
+    <dimen name="view_height_xsmall">1.5dp</dimen>
+    <dimen name="view_width_small">2dp</dimen>
+    <dimen name="divider_height_zero">0dp</dimen>
+
+    <dimen name="divider_height_normal">1dp</dimen>
+    <dimen name="divider_height_small">1.25dp</dimen>
+    <dimen name="divider_height_medium">5dp</dimen>
+    <dimen name="divider_height_large">20dp</dimen>
+    <dimen name="layout_height_button">65dp</dimen>
+
+    <dimen name="border_width">3dp</dimen>
+    <dimen name="border_width_small">2dp</dimen>
+    <dimen name="layout_height_medium_xlargeminor">110dp</dimen>
+
+    <dimen name="card_corner_radius_xverysmall">5dp</dimen>
+    <dimen name="card_corner_radius_verysmall">8dp</dimen>
+    <dimen name="card_corner_radius_small">10dp</dimen>
+    <dimen name="corner_radius_large">74dp</dimen>
+    <dimen name="corner_radius">60dp</dimen>
+    <dimen name="corner_radius_small">45dp</dimen>
+    <dimen name="corner_radius_xsmall">40dp</dimen>
+    <dimen name="corner_elevation_xlow">3dp</dimen>
+    <dimen name="corner_elevation_low">4dp</dimen>
+
+    <dimen name="menu_header_height">70dp</dimen>
+    <dimen name="layout_height_menu">60dp</dimen>
+
+    <dimen name="layout_height_medium_xsmall_large">220dp</dimen>
+    <dimen name="layout_width_medium_low">48dp</dimen>
+    <dimen name="layout_width_medium_small_low">40dp</dimen>
+    <dimen name="text3">14sp</dimen>
+    <dimen name="dm_40sp">50dp</dimen>
+    <dimen name="dm_42sp">52dp</dimen>
+
+    <dimen name="toolbar_heading">16sp</dimen>
+    <dimen name="action_font_size">11sp</dimen>
+    <dimen name="action_font_size1">13sp</dimen>
+    <dimen name="heading_1">14sp</dimen>
+    <dimen name="heading_2">15sp</dimen>
+    <dimen name="navtext">12sp</dimen>
+    <dimen name="text2">24sp</dimen>
+
+    <dimen name="margin_xmedium">5dp</dimen>
+    <dimen name="text_semilarge">20sp</dimen>
+    <dimen name="text_xmedium">14sp</dimen>
+
+
+    <dimen name="calendar_item_height">40dp</dimen>
+    <dimen name="calendar_item_width">40dp</dimen>
+
+</resources>
